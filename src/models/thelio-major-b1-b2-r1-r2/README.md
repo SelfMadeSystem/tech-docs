@@ -75,7 +75,6 @@ Height × Width × Depth
 
 thelio-major-b2
 
-
 # Thelio Major R2
 
 ## Tech Specs
@@ -109,7 +108,7 @@ RTX Titan: 3× DisplayPort, 1× HDMI, 1× USB Type-C
 
 **Memory** 	
 
-Up to 256 GB Quad Channel DDR4 @ 3000 MHz
+Up to 256 GB Quad Channel DDR4 @ 3200 MHz
 
 **Storage** 	
 
