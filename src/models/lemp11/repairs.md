@@ -188,9 +188,12 @@ The battery provides primary power whenever the system is unplugged.
 ![Main battery](./img/battery.webp)
 
 3. Remove the battery.
-    - The battery is secured to foam standoffs with double-sided tape.
+    - The battery is secured to foam standoffs with double-sided tape, with tabs of the adhesive that extend from under the battery. Pulling the tabs will remove most of the adhesive. 
+    - For the tabs sticking out on the left side, gently removing the speaker will give you more room to access the adhesive tabs. 
     - A flat plastic object (such as a credit card) can be used to separate the tape from the battery.
     - If any tabs from the tape are visible around the perimeter of the battery, do not push them back under the battery.
         - Hold the tabs down while inserting the plastic tool to separate the tape and foam from the battery.
         - Alternatively, pull the tabs up with the battery to separate the tape and foam from the chassis.
+    - Leave the foam backing in place for the replacement battery to rest on.
 4. Put the battery back (or put your new battery in its place) and plug it back into the motherboard.
+    - You may need to peal back the tape that holds the battery connection cable to tuck the cable under the battery when attaching back to the white connection on the main logic board.
